@@ -4,8 +4,7 @@ Enjoy a classic game of Tic-Tac-Toe with a simple and elegant interface. Play ag
 
 ## Getting Started
 
-1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in a web browser.
+1. Open the `index.html` file in a web browser.
 
 ## Gameplay Instructions
 
